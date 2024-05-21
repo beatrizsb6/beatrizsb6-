@@ -1,10 +1,10 @@
 ### Boas vindas ao meu perfil 🩷🍓
 
-Meu nome é beatriz dos santos 
+Meu nome é Beatriz dos santos 
 
-- estou estudando na [alura](https://w.w.w.alura.com.br);
-- estou me desenvolvendo na linguagem javascript;
-- utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos.
+- Estou estudando na [alura](https://w.w.w.alura.com.br);
+- Estou me desenvolvendo na linguagem javascript;
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos.
 
 ### você entrar em contato comigo 📫
 00001132793464sp@al.educacao.sp.gov.br 
